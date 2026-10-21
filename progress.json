@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:54:45.428Z",
+  "generated_at": "2026-10-21T05:54:46.963Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-20T07:31:16.647Z",
-      "last_pushed_at": "2026-10-20T07:31:16.647Z"
+      "last_pushed_at": "2026-10-21T05:54:46.961Z"
     },
     "math:9": {
       "kind": "math",
@@ -21,7 +21,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-20T07:32:39.115Z",
-      "last_pushed_at": "2026-10-20T07:32:39.115Z"
+      "last_pushed_at": "2026-10-21T05:54:46.961Z"
     },
     "math:10": {
       "kind": "math",
@@ -32,7 +32,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-20T08:14:23.876Z",
-      "last_pushed_at": "2026-10-20T08:14:23.876Z"
+      "last_pushed_at": "2026-10-21T05:54:46.961Z"
     },
     "problem:83": {
       "kind": "problem",
@@ -95,7 +95,7 @@
       "url": "https://www.deep-ml.com/math-problems/12",
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-10-21T04:07:00.483Z",
-      "last_pushed_at": "2026-10-21T04:07:00.483Z"
+      "last_pushed_at": "2026-10-21T05:54:46.961Z"
     },
     "problem:8": {
       "kind": "problem",
